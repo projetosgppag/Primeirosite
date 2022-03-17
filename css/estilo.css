@@ -1,11 +1,22 @@
 body{
-    background-color: #FF6347;
-    color: #5BD465;
+    background-color: #F8F670;
+    color:blue;
     text-align: center;
     font-family: cursive;
 
 }
 a:link {
     text-decoration: none;
+}
+.container{
+
+    width:80%;
+    margin:auto;
+
+}
+
+img{
+    width:500;
+    height:500;
 
 }
