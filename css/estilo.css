@@ -6,23 +6,22 @@ body{
     color:#FF8C00;
     text-align: center;
     font-family: cursive;
-
 }
 a:link{
     text-decoration: none;
     color:#FF8C00;
 }
 .container{
-
     width:80%;
     margin:auto;
-
 }
 
-figure{
-    width:500px;
-    height:500px;
-    width:80%;
+.fig_low{
+    width: 500;
+    height: 500;
     margin:auto;
+}
 
+p{
+    font-size:x-large;
 }
